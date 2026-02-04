@@ -2,7 +2,7 @@
 
 <h1 align="left"> Imaran Ansari</h1>
 
-I’m a full-stack developer with 8+ years of experience in developing applications and following my passion of building applications that solve real-world problems, I enjoy exploring new technologies.
+I’m a full-stack developer with 6+ years of experience in developing applications and following my passion of building applications that solve real-world problems, I enjoy exploring new technologies.
 <br>
 
 ## Rapid-fire
@@ -65,8 +65,6 @@ I’m a full-stack developer with 8+ years of experience in developing applicati
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ---
-
-<br>
 </br>
 
 # 📊 GitHub Stats
